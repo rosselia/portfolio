@@ -54,6 +54,15 @@
     margin-bottom: 0;
   }
 }
+.cv img{
+  height: 50%;
+  width: 50%;
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  
+}
 .timeline > li {
   margin-bottom: 20px;
   position: relative;
